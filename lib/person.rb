@@ -7,4 +7,5 @@ class Person
   end
   def jobs=(persons_with_job)
     @jobs=persons_with_job
+  end
 end

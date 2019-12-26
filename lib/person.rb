@@ -10,4 +10,5 @@ class Person
   end
   def jobs
     @jobs
+  end
 end

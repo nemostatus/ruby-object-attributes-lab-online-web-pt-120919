@@ -6,5 +6,5 @@ class Person
     @name
   end
   def jobs=(persons_with_job)
-    @jobs
+    @jobs-persons_with_job
 end

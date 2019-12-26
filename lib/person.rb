@@ -9,4 +9,5 @@ class Person
     @jobs=persons_with_job
   end
   def jobs
+    @jobs
 end

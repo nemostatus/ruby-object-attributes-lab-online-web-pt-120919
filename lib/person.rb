@@ -5,4 +5,5 @@ class Person
   def name
     @name
   end
+  def jobs=(persons_with_job)
 end
